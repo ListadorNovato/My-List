@@ -1,1 +1,5 @@
-http://fsrv.me/get.php?username=k28564vc&password=4vc8564vc&type=m3u_plus&output=m3u8
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" tvg-country="BR", Teste
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fmaxptv.ddns.net%3A25461%2Flive%2Fjess%2Fjess%2F524.ts&swf=None&auth=&simpledownloader=False
+#EXTINF:0 type="stream" channelId="-1" audio-track="BR" tvg-country="BR", Globo SP HD
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=False&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fpainel.ebanonet.com.br%3A25461%2F909090%2F909090%2F20070&swf=None&auth=&simpledownloader=False
